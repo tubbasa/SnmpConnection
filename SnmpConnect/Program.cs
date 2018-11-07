@@ -51,6 +51,7 @@ namespace SnmpConnect
 
             Console.WriteLine("--------------------------Trap İşlemleri Başladı--------------------------");
             SnmpTraps.SenTrap(args);
+
             //You can watch traps on MIB Browser
 
 
